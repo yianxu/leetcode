@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ca8bb2-3ae7-486e-9b9a-b550dc031737" name="Default" comment="Median of Two Sorted Arrays" />
+    <list default="true" id="00ca8bb2-3ae7-486e-9b9a-b550dc031737" name="Default" comment="修改gitignore文件">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +241,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629554876927</updated>
       <workItem from="1629554879244" duration="7436000" />
-      <workItem from="1629680310023" duration="6180000" />
+      <workItem from="1629680310023" duration="8550000" />
     </task>
     <task id="LOCAL-00001" summary="Longest Substring Without Repeating Characters">
       <created>1629681329766</created>
@@ -254,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629686488477</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改gitignore文件">
+      <created>1629686566013</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629686566013</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +284,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Longest Substring Without Repeating Characters" />
     <MESSAGE value="Median of Two Sorted Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Median of Two Sorted Arrays" />
+    <MESSAGE value="修改gitignore文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改gitignore文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="410" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629686511448">
@@ -325,14 +336,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1864" height="238" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1629686160079" />
-    <state x="452" y="194" key="Vcs.Push.Dialog.v2" timestamp="1629686496685">
+    <state x="452" y="194" key="Vcs.Push.Dialog.v2" timestamp="1629686567551">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="452" y="194" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1629686496685" />
-    <state x="305" y="125" key="new project wizard" timestamp="1629682002567">
+    <state x="452" y="194" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1629686567551" />
+    <state x="305" y="115" key="new project wizard" timestamp="1629688947266">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="305" y="125" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1629682002567" />
+    <state x="305" y="115" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1629688947266" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
