@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ca8bb2-3ae7-486e-9b9a-b550dc031737" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="00ca8bb2-3ae7-486e-9b9a-b550dc031737" name="Default" comment="Longest Substring Without Repeating Characters">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/新建文本文档.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +63,7 @@
       <recent name="D:\ideaWorkSpace\leetcode" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -100,6 +98,20 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
       <method />
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xya.leetcode.Solution" />
+      <module name="004_Median_of_Two_Sorted_Arrays" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xya.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xya.leetcode.Solution" />
@@ -245,8 +257,13 @@
       <envs />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -262,8 +279,16 @@
       <option name="presentableId" value="Default" />
       <updated>1629554876927</updated>
       <workItem from="1629554879244" duration="7436000" />
-      <workItem from="1629680310023" duration="814000" />
+      <workItem from="1629680310023" duration="5870000" />
     </task>
+    <task id="LOCAL-00001" summary="Longest Substring Without Repeating Characters">
+      <created>1629681329766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629681329766</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,11 +305,59 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Longest Substring Without Repeating Characters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Longest Substring Without Repeating Characters" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="305" y="212" key="new project wizard" timestamp="1629680981031">
+    <state x="1166" y="226" key="#xdebugger.evaluate" timestamp="1629686043212">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="305" y="212" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1629680981031" />
+    <state x="1166" y="226" key="#xdebugger.evaluate/0.0.1920.1050@0.0.1920.1050" timestamp="1629686043212" />
+    <state width="438" height="582" key="DebuggerActiveHint" timestamp="1629685986983">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="438" height="582" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1629685986983" />
+    <state width="1864" height="137" key="GridCell.Tab.0.bottom" timestamp="1629686178010">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1864" height="137" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1629686178010" />
+    <state width="1864" height="137" key="GridCell.Tab.0.center" timestamp="1629686178009">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1864" height="137" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1629686178009" />
+    <state width="1864" height="137" key="GridCell.Tab.0.left" timestamp="1629686178009">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1864" height="137" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1629686178009" />
+    <state width="1864" height="137" key="GridCell.Tab.0.right" timestamp="1629686178010">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1864" height="137" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1629686178009" />
+    <state width="1864" height="238" key="GridCell.Tab.1.bottom" timestamp="1629686160079">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1864" height="238" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1629686160079" />
+    <state width="1864" height="238" key="GridCell.Tab.1.center" timestamp="1629686160079">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1864" height="238" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1629686160079" />
+    <state width="1864" height="238" key="GridCell.Tab.1.left" timestamp="1629686160078">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1864" height="238" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1629686160078" />
+    <state width="1864" height="238" key="GridCell.Tab.1.right" timestamp="1629686160079">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1864" height="238" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1629686160079" />
+    <state x="452" y="194" key="Vcs.Push.Dialog.v2" timestamp="1629681332223">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="452" y="194" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1629681332223" />
+    <state x="305" y="125" key="new project wizard" timestamp="1629682002567">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="305" y="125" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1629682002567" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
