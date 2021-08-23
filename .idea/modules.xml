@@ -7,8 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/003_Longest_Substring_Without_Repeating_Characters/003_Longest_Substring_Without_Repeating_Characters.iml" filepath="$PROJECT_DIR$/003_Longest_Substring_Without_Repeating_Characters/003_Longest_Substring_Without_Repeating_Characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/004_Median_of_Two_Sorted_Arrays/004_Median_of_Two_Sorted_Arrays.iml" filepath="$PROJECT_DIR$/004_Median_of_Two_Sorted_Arrays/004_Median_of_Two_Sorted_Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/005_Longest_Palindromic_Substring/005_Longest_Palindromic_Substring.iml" filepath="$PROJECT_DIR$/005_Longest_Palindromic_Substring/005_Longest_Palindromic_Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007_Reverse_Integer/007_Reverse_Integer.iml" filepath="$PROJECT_DIR$/007_Reverse_Integer/007_Reverse_Integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/009_Palindrome_Number/009_Palindrome_Number.iml" filepath="$PROJECT_DIR$/009_Palindrome_Number/009_Palindrome_Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meituan-001/meituan-001.iml" filepath="$PROJECT_DIR$/meituan-001/meituan-001.iml" />
     </modules>
   </component>
 </project>
