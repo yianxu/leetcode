@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00ca8bb2-3ae7-486e-9b9a-b550dc031737" name="Default" comment="Merge Two Sorted Lists">
-      <change afterPath="$PROJECT_DIR$/021_Merge_Two_Sorted_Lists/src/com/xya/leetcode/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/021_Merge_Two_Sorted_Lists/src/com/xya/leetcode/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -67,7 +65,7 @@
       <recent name="D:\ideaWorkSpace\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -106,6 +104,34 @@
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xya.leetcode.Solution" />
       <module name="021_Merge_Two_Sorted_Lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xya.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xya.leetcode.Solution" />
+      <module name="026_Remove_Duplicates_from_Sorted_Array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xya.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xya.leetcode.Solution" />
+      <module name="024_Swap_Nodes_in_Pairs" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -263,6 +289,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
       </list>
@@ -279,7 +307,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629554876927</updated>
       <workItem from="1629554879244" duration="7436000" />
-      <workItem from="1629680310023" duration="28819000" />
+      <workItem from="1629680310023" duration="37330000" />
     </task>
     <task id="LOCAL-00001" summary="Longest Substring Without Repeating Characters">
       <created>1629681329766</created>
@@ -344,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629769860125</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge Two Sorted Lists">
+      <created>1629772793011</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1629772793011</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,58 +421,69 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1166" y="226" key="#xdebugger.evaluate/0.0.1920.1050@0.0.1920.1050" timestamp="1629718154506" />
-    <state width="438" height="582" key="DebuggerActiveHint" timestamp="1629772490462">
+    <state width="450" height="582" key="DebuggerActiveHint" timestamp="1629785785646">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="438" height="582" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1629772490462" />
+    <state width="450" height="582" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1629785785646" />
     <state x="189" y="91" key="DiffContextDialog" timestamp="1629686494561">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="189" y="91" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1629686494561" />
-    <state width="1864" height="192" key="GridCell.Tab.0.bottom" timestamp="1629772427781">
+    <state width="1864" height="254" key="GridCell.Tab.0.bottom" timestamp="1629785747389">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1864" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1629772427781" />
-    <state width="1864" height="192" key="GridCell.Tab.0.center" timestamp="1629772427781">
+    <state width="1864" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1629785747389" />
+    <state width="1864" height="254" key="GridCell.Tab.0.center" timestamp="1629785747389">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1864" height="192" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1629772427781" />
-    <state width="1864" height="192" key="GridCell.Tab.0.left" timestamp="1629772427781">
+    <state width="1864" height="254" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1629785747389" />
+    <state width="1864" height="254" key="GridCell.Tab.0.left" timestamp="1629785747389">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1864" height="192" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1629772427781" />
-    <state width="1864" height="192" key="GridCell.Tab.0.right" timestamp="1629772427781">
+    <state width="1864" height="254" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1629785747389" />
+    <state width="1864" height="254" key="GridCell.Tab.0.right" timestamp="1629785747389">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1864" height="192" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1629772427781" />
-    <state width="1864" height="192" key="GridCell.Tab.1.bottom" timestamp="1629772430317">
+    <state width="1864" height="254" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1629785747389" />
+    <state width="1864" height="254" key="GridCell.Tab.1.bottom" timestamp="1629785748745">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1864" height="192" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1629772430317" />
-    <state width="1864" height="192" key="GridCell.Tab.1.center" timestamp="1629772430316">
+    <state width="1864" height="254" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1629785748745" />
+    <state width="1864" height="254" key="GridCell.Tab.1.center" timestamp="1629785748745">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1864" height="192" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1629772430316" />
-    <state width="1864" height="192" key="GridCell.Tab.1.left" timestamp="1629772430316">
+    <state width="1864" height="254" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1629785748745" />
+    <state width="1864" height="254" key="GridCell.Tab.1.left" timestamp="1629785748745">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1864" height="192" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1629772430316" />
-    <state width="1864" height="192" key="GridCell.Tab.1.right" timestamp="1629772430316">
+    <state width="1864" height="254" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1629785748745" />
+    <state width="1864" height="254" key="GridCell.Tab.1.right" timestamp="1629785748745">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1864" height="192" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1629772430316" />
-    <state x="452" y="194" key="Vcs.Push.Dialog.v2" timestamp="1629769862117">
+    <state width="1864" height="254" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1629785748745" />
+    <state x="452" y="194" key="Vcs.Push.Dialog.v2" timestamp="1629772797187">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="452" y="194" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1629769862117" />
+    <state x="452" y="194" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1629772797187" />
     <state x="717" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1629715308843">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="717" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1629715308843" />
-    <state x="305" y="115" key="new project wizard" timestamp="1629769980059">
+    <state x="305" y="115" key="new project wizard" timestamp="1629783733279">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="305" y="115" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1629769980059" />
+    <state x="305" y="115" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1629783733279" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/026_Remove_Duplicates_from_Sorted_Array/src/com/xya/leetcode/Solution.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
