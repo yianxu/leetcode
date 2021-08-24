@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/024_Swap_Nodes_in_Pairs/024_Swap_Nodes_in_Pairs.iml" filepath="$PROJECT_DIR$/024_Swap_Nodes_in_Pairs/024_Swap_Nodes_in_Pairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/026_Remove_Duplicates_from_Sorted_Array/026_Remove_Duplicates_from_Sorted_Array.iml" filepath="$PROJECT_DIR$/026_Remove_Duplicates_from_Sorted_Array/026_Remove_Duplicates_from_Sorted_Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/027_Remove_Element/027_Remove_Element.iml" filepath="$PROJECT_DIR$/027_Remove_Element/027_Remove_Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/028_Implement_strStr/028_Implement_strStr.iml" filepath="$PROJECT_DIR$/028_Implement_strStr/028_Implement_strStr.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/meituan-001/meituan-001.iml" filepath="$PROJECT_DIR$/meituan-001/meituan-001.iml" />
     </modules>

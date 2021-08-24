@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ca8bb2-3ae7-486e-9b9a-b550dc031737" name="Default" comment="Merge Two Sorted Lists">
+    <list default="true" id="00ca8bb2-3ae7-486e-9b9a-b550dc031737" name="Default" comment="Swap Nodes in Pairs">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -307,7 +307,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629554876927</updated>
       <workItem from="1629554879244" duration="7436000" />
-      <workItem from="1629680310023" duration="37330000" />
+      <workItem from="1629680310023" duration="39371000" />
     </task>
     <task id="LOCAL-00001" summary="Longest Substring Without Repeating Characters">
       <created>1629681329766</created>
@@ -379,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629772793011</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Swap Nodes in Pairs">
+      <created>1629787165495</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1629787165496</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,7 +413,8 @@
     <MESSAGE value="Remove Nth Node From End of List" />
     <MESSAGE value="Valid Parentheses" />
     <MESSAGE value="Merge Two Sorted Lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge Two Sorted Lists" />
+    <MESSAGE value="Swap Nodes in Pairs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Swap Nodes in Pairs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="312" y="0" key="#Project_Structure" timestamp="1629770121396">
@@ -461,18 +469,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1864" height="254" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1629785748745" />
-    <state x="452" y="194" key="Vcs.Push.Dialog.v2" timestamp="1629772797187">
+    <state x="452" y="194" key="Vcs.Push.Dialog.v2" timestamp="1629787167496">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="452" y="194" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1629772797187" />
+    <state x="452" y="194" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1629787167496" />
     <state x="717" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1629715308843">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="717" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1629715308843" />
-    <state x="305" y="115" key="new project wizard" timestamp="1629783733279">
+    <state x="305" y="115" key="new project wizard" timestamp="1629787305496">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="305" y="115" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1629783733279" />
+    <state x="305" y="115" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1629787305496" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
