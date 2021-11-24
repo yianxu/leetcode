@@ -21,8 +21,32 @@ package com.xya.leetcode;
  * 输出："a"
  */
 public class Solution {
+    public static void main(String[] args) {
+        new Solution().longestPalindrome("a");
+    }
+
     public String longestPalindrome(String s) {
         String result = "";
+        int maxLen = 0;
+        for(int i=0;i<s.length();i++){
+            for(int j=i+1;j<=s.length();j++){
+                String temp = s.substring(i,j);
+                if(isPalindrome(temp) && temp.length() > maxLen){
+                    result = temp;
+                    maxLen = temp.length();
+                }
+            }
+        }
         return result;
+    }
+
+    boolean isPalindrome(String s){
+        int len = s.length();
+        for (int i = 0; i < len / 2; i++) {
+            if (s.charAt(i) != s.charAt(len - i - 1)) {
+                return false;
+            }
+        }
+        return true;
     }
 }
